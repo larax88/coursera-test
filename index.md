@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Dobrodošli na GitHub strani
 
 You can use the [editor on GitHub](https://github.com/larax88/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
